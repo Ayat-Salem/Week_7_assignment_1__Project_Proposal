@@ -13,12 +13,13 @@ Detect vehicles fraud
 ML model selected:
 random forest, cross validation
 
-Reason: because we are dealing with small data.
+Reason: 
+because we are dealing with small data.
 
-Group Number # or Name: Group 7
+Group Number # or Name:
+Group 7
 
 Group Members:
-
 Bayan Alserhani
 Aedah Alrehaili
 Thuraya Alruwaili
