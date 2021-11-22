@@ -5,7 +5,7 @@ Area of FinTech:
 Fraud Detection in Insurance Claims.
 
 Dataset researched and located:
-https://www.kaggle.com/roshansharma/fraud-detection-in-insurance-claims
+https://www.kaggle.com/buntyshah/insurance-fraud-claims-detection/data
 
 ML Use Case:
 Detect vehicles fraud
